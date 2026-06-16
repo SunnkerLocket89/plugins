@@ -1,7 +1,7 @@
 {
   "name": "chronograph",
   "version": "1.0.2",
-  "description": "Private capital portfolio monitoring, fund metrics, and company updates",
+  "description": "Your trusted portfolio data",
   "author": {
     "name": "Chronograph",
     "url": "https://www.chronograph.pe"
@@ -14,8 +14,8 @@
   "apps": "./.app.json",
   "interface": {
     "displayName": "Chronograph",
-    "shortDescription": "Private capital portfolio monitoring, fund metrics, and company updates",
-    "longDescription": "Private capital portfolio monitoring, fund metrics, and company updates",
+    "shortDescription": "Your trusted portfolio data",
+    "longDescription": "Chronograph LP provides portfolio monitoring and analytics solutions for private capital investors. Through the Chronograph LP App within ChatGPT and Codex, users can access the full depth of their trusted private markets portfolio data using natural language, from underlying portfolio companies and assets to funds, vehicles, commitments, and more.\n\nChronograph provides two separate Apps for different client user types: Chronograph LP for Limited Partner users and Chronograph GP for General Partner users.",
     "developerName": "Chronograph",
     "category": "Finance",
     "capabilities": [],

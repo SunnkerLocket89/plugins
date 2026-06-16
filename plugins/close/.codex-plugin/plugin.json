@@ -1,7 +1,7 @@
 {
   "name": "close",
   "version": "1.0.2",
-  "description": "CRM leads, opportunities, activities, and sales pipeline context",
+  "description": "Close CRM for ChatGPT",
   "author": {
     "name": "Close",
     "url": "https://www.close.com"
@@ -13,8 +13,8 @@
   "interface": {
     "displayName": "Close",
     "developerName": "Close",
-    "shortDescription": "CRM leads, opportunities, activities, and sales pipeline context",
-    "longDescription": "CRM leads, opportunities, activities, and sales pipeline context",
+    "shortDescription": "Close CRM for ChatGPT",
+    "longDescription": "Close stores every call, email, SMS, and meeting your team touches, not just contact records. Connect it to ChatGPT and your conversation history becomes something you can actually work from.\n\nAsk ChatGPT to catch you up on a deal, summarize recent calls, draft follow-ups, update records, or build outreach workflows without bouncing between tools.\nClose is built around communication. Calls, emails, SMS, and meetings are all logged and searchable, giving ChatGPT far more context than traditional CRMs built mostly for record-keeping.\n\nClose also includes Chloe, a built-in AI sales teammate embedded directly into your workflows. Together, ChatGPT and Chloe help teams stay on top of follow-up, prioritize outreach, and keep deals moving.",
     "category": "Business & Operations",
     "capabilities": [],
     "brandColor": "#50C078",
